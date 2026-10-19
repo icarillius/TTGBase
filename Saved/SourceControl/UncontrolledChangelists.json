@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerController/IA_MoveCameraUpDown.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerController/IA_MoveCameraRightLeft.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerController/IMC_Player.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerController/BP_TTGPlayerController.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerCharacter/BP_PlayerCamera.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerController/IA_MouseClickLeft.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Level/LV_MainGame.umap",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/GameMode/GM_TTGGM.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerCharacter/BP_PlayerToken.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Board/BP_Tile.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Board/BPI_FindAdjTiles.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Board/BPI_FindTiles.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Board/BPI_Range.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/M_Red.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerController/IA_MouseClickRight.uasset",
+				"C:/Users/ig23/AppData/Local/Development/TTGBase/Content/Blueprint/Player/PlayerCharacter/BPI_MoveToken.uasset"
+			]
+		}
+	]
+}
